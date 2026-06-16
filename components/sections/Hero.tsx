@@ -96,7 +96,7 @@ export default function Hero() {
             >
               <span className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-cyber-cyan/30 bg-cyber-cyan/5 text-cyber-cyan text-xs font-terminal">
                 <span className="w-1.5 h-1.5 rounded-full bg-cyber-green animate-pulse" />
-                Open to Opportunities — Aug 2026
+                Open to Opportunities
               </span>
             </motion.div>
 
@@ -208,7 +208,7 @@ export default function Hero() {
               {/* Terminal body */}
               <div className="p-5 font-terminal text-sm space-y-2 min-h-72">
                 <TerminalLine delay={0.6}  prompt>whoami</TerminalLine>
-                <TerminalLine delay={0.9}  output>ashish kumar — security engineer</TerminalLine>
+                <TerminalLine delay={0.9}  output>Ashish — security engineer</TerminalLine>
 
                 <TerminalLine delay={1.3}  prompt>cat skills.txt</TerminalLine>
                 <TerminalLine delay={1.6}  output>SOC Analysis · Blue Team · DFIR</TerminalLine>
@@ -217,7 +217,7 @@ export default function Hero() {
 
                 <TerminalLine delay={2.2}  prompt>cat achievements.txt</TerminalLine>
                 <TerminalLine delay={2.5}  output>🏆 CTF 1st Place — MMMUT CES</TerminalLine>
-                <TerminalLine delay={2.65} output>🛡  TryHackMe Top 3% Globally</TerminalLine>
+                <TerminalLine delay={2.65} output>🛡  TryHackMe Top 2% Globally</TerminalLine>
                 <TerminalLine delay={2.8}  output>🏀 Basketball Team Captain 2025</TerminalLine>
 
                 <TerminalLine delay={3.1}  prompt>
