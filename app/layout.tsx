@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Ashish Singh | Security Engineer & Full-Stack Developer",
-    template: "%s | Ashish Singh",
+    default: "Ashish Kumar | Security Engineer & Full-Stack Developer",
+    template: "%s | Ashish Kumar",
   },
   description:
     "B.Tech CSE student specializing in cybersecurity — SOC analysis, network intrusion detection, malware analysis, and full-stack development. Building tools that defend.",
@@ -34,22 +34,22 @@ export const metadata: Metadata = {
     "MITRE ATT&CK",
     "CTF",
     "TryHackMe",
-    "Ashish Singh",
+    "Ashish Kumar",
     "MMMUT",
   ],
-  authors: [{ name: "Ashish Singh", url: "https://github.com/Ashiii27" }],
-  creator: "Ashish Singh",
+  authors: [{ name: "Ashish Kumar", url: "https://github.com/Ashiii27" }],
+  creator: "Ashish Kumar",
   openGraph: {
     type: "website",
     locale: "en_US",
-    title: "Ashish Singh | Security Engineer & Full-Stack Developer",
+    title: "Ashish Kumar | Security Engineer & Full-Stack Developer",
     description:
       "Building security tools and full-stack applications. SOC analyst targeting Blue Team roles.",
-    siteName: "Ashish Singh — Portfolio",
+    siteName: "Ashish Kumar — Portfolio",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Ashish Singh | Security Engineer & Full-Stack Developer",
+    title: "Ashish Kumar | Security Engineer & Full-Stack Developer",
     description:
       "Building security tools and full-stack applications. SOC analyst targeting Blue Team roles.",
   },
